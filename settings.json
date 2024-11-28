@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "validation_functions.h": "c",
+        "action_functions.h": "c"
+    }
+}
